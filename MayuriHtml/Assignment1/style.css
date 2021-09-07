@@ -1,0 +1,13 @@
+.container {
+  background-color: red;
+  color: white;
+  height: 333px;
+
+
+
+
+}
+var j=o;
+while(j<3){//shows0,then1,then2
+  j=j+1; console.log(j);
+}
